@@ -1,0 +1,39 @@
+Nombre: Hector Cabrera
+Matricula: 1280819
+Calificaciones:
+87.0
+74.0
+98.0
+74.0
+82.0
+69.0
+74.0
+Promedio General: 79.71429
+
+
+Nombre: Juan Garcia
+Matricula: 1280976
+Calificaciones:
+66.0
+87.0
+86.0
+78.0
+0.0
+69.0
+99.0
+Promedio General: 69.28571
+
+
+Nombre: Pedro Herrera
+Matricula: 1280234
+Calificaciones:
+97.0
+86.0
+100.0
+87.0
+78.0
+99.0
+100.0
+Promedio General: 92.42857
+
+
